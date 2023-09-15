@@ -1,0 +1,6 @@
+﻿sdi_quintile,lower_bound,upper_bound
+Low SDI,0,0.454743
+Low-middle SDI,0.454743,0.607679
+Middle SDI,0.607679,0.689504
+High-middle SDI,0.689504,0.805129
+High SDI,0.805129,1
